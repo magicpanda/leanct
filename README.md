@@ -1,2 +1,1 @@
-# leanct
-Learn lean cloud 
+Cloud code project for magicpanda. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
